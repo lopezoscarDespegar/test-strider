@@ -1,0 +1,23 @@
+{
+  "name": "test-strider",
+  "version": "1.0.0",
+  "description": "test-strider project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopezoscarDespegar/test-strider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopezoscarDespegar/test-strider/issues"
+  },
+  "homepage": "https://github.com/lopezoscarDespegar/test-strider#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
